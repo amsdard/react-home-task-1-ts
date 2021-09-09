@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { injectGlobal } from "@emotion/css";
+
+injectGlobal(`
+  * { margin: 0; }
+  section { margin: 2rem 4rem; }
+  p { margin-bottom: 1rem; } 
+  
+`)
 
 ReactDOM.render(
   <React.StrictMode>
