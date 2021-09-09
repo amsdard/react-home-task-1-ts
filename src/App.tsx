@@ -99,9 +99,9 @@ function App() {
             </ToolBoxPanel>
           </section>
           <p>
-            Please feel free change this as much as you want. This code in fact
-            is not very well. But remember try to make components open for
-            future changes and new features.
+            Please feel free to refactor this code as much as you want. This
+            code in fact is not very well. But remember try to make components
+            open for future changes and new features.
           </p>
           <p>Good luck!</p>
         </main>
