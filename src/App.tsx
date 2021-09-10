@@ -20,14 +20,14 @@ function App() {
         </header>
         <main>
           <p>
-            You just joint our small, but constantly growing team. Our team
-            develop well-known SAAS platform for medical purposes. We know that
-            as a new developer firstly you want to figure out how thing works,
-            so your first task will be something easy without rocket-science.
+            You just joint our small, but constantly growing team. We developing
+            well-known SAAS platform for medical purposes. We know that as a new
+            developer firstly you want to figure out how thing works, so your
+            first task will be something easy without rocket-science.
           </p>
           <p>
-            Our users complain about our FAQ section. Their want to have opened
-            only one panel at once. When their open another the first should
+            Our users complain on our FAQ section. Their want to have open only
+            one panel at once. When their open another the previous one should
             close automatically.
           </p>
         </main>
@@ -68,18 +68,19 @@ function App() {
       </section>
       <section>
         <header>
-          <h2>Task scenario part 2</h2>
+          <h2>Task scenario: Part 2</h2>
         </header>
         <main>
           <p>
-            Well done. You did it fast and nice. Our product owner is impressed.
-            Now you can take the real task from current sprint.
+            Well done. You did it fast and well. Our product owner is impressed.
+            Now you can take the real urgent task from current sprint.
           </p>
           <p>
-            Long story short. We plant to release new huge feature: xray
-            realtime coworking board, adding pined annotations, consulting etc.
-            On left we want place toolbox which will contains panels exactly
-            like you did in our FAQ section, we need different style but in
+            Long story short. We plan to release new feature. Diagnosis board
+            for xray in realtime: We will add there pined annotations, online
+            consultation etc. On left we want place toolbox with all the tools
+            grouped within panels behaving exactly like that the ones you have
+            done before in our FAQ section. We need different style but in
             genera it will be exactly the same.
           </p>
           <p>
